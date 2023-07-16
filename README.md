@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently developing & learning **Full Stack tools and focusing on DSA (in Java)**
 
-- 📝 I often write on [harshitadaga.substack.com](harshitadaga.substack.com)
+- 📝 I often write on [harshitadaga.substack.com](harshitadaga.substack.com/)
 
 - 👥 Ask me about **Tech, Music and anything.**
 
@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshita__daga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshita__daga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshita-daga1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-daga1" height="30" width="40" /></a>
 <a href="https://instagram.com/harshita__daga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshita__daga" height="30" width="40" /></a>
 </p>
 
