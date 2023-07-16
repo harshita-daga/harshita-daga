@@ -1,22 +1,20 @@
 <h1 align="center">Hello world? lol, I'm Harshita Daga</h1>
-<h3 align="center">a Web Developer with a passion for design, learning & creation.</h3>
+<h3 align="center">a developer with a growing interest in design, learning & creation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-daga&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-daga" /> </p>
 
 
-- 💻 I’m currently working on **Frontend projects & Logic building.**
+- 💻 Working towards **Building Frontend projects & Logic building.**
 
-- 👩🏻‍💻 About me **I'm a BCA-II year student**
+- 👩🏻‍💻 **A BCA-II year student**
 
-- 🌱 I’m currently developing & learning **Full Stack tools and focusing on DSA (in Java)**
+- 🌱 Currently learning **Full Stack tools and focusing on DSA (Java)**
 
 - 📝 I often write on [harshitadaga.substack.com](harshitadaga.substack.com/)
 
-- 👥 Ask me about **Tech, Music and anything.**
+- 🗿 Talk to me about **Music**
 
 - 📧 How to reach me **harshitadaga.connect@gmail.com**
-
-- 🗿 Fun fact **I do Poetry and always up for a random conversation, they're never not fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
