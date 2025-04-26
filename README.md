@@ -1,6 +1,6 @@
 # Hi there, I'm Harshita 👾
 
-I'm a developer building functional, user-friendly web applications, playing around with data, development & machine learning, Oh and a Computer Science graduate 2024. Working on a Digital Branding startup side by side. Convinced that I might have an eye for design (or at least a wild imagination and a way with words).
+I'm a developer building functional, user-friendly web applications, playing around with data, development & machine learning, Oh and a Computer Science graduate 2024. 
 
 I'll soon start writing about my tech learnings on my [Medium](https://medium.com/@harshitadaga), stick around?
 
